@@ -13,6 +13,7 @@ An AI-powered classroom monitoring system that uses facial recognition and phone
 - [System Requirements]
 - [Software Requirements]
 - [Installation Guide]
+- [Download the buffalo_s Model]
 - [HOW TO RUN]
 - [Step A: Student Registration]
 - [Step B: Train the Model]
