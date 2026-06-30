@@ -1,0 +1,109 @@
+﻿# ============================================
+# PRIVATE DATA - DO NOT UPLOAD TO GITHUB
+# ============================================
+TrainingImage/
+TrainingImageLabel/
+Attendance/
+phone_detections/
+StudentDetails/
+Users/
+
+# ============================================
+# Python Virtual Environment
+# ============================================
+.venv/
+venv/
+ENV/
+env/
+env.bak/
+venv.bak/
+__pycache__/
+*.py[cod]
+*.class
+
+# ============================================
+# IDE & Editor Files
+# ============================================
+# .idea/
+.vscode/
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+*.iml
+
+# ============================================
+# Logs & Databases
+# ============================================
+*.log
+*.sqlite
+*.sqlite3
+*.db
+
+# ============================================
+# Environment Variables
+# ============================================
+.env
+.env.local
+.env.*.local
+
+# ============================================
+# Large Model Files - Upload manually
+# ============================================
+*.pt
+*.pth
+*.h5
+*.pb
+*.tflite
+*.bin
+*.onnx
+*.zip
+*.rar
+*.7z
+
+# ============================================
+# Buffalo Models
+# ============================================
+models/buffalo_s/
+
+# ============================================
+# Distribution & Build
+# ============================================
+build/
+dist/
+*.egg-info/
+.eggs/
+*.egg
+*.manifest
+*.spec
+
+# ============================================
+# Testing & Coverage
+# ============================================
+.pytest_cache/
+.coverage
+htmlcov/
+.tox/
+*.cover
+.hypothesis/
+
+# ============================================
+# Jupyter Notebooks
+# ============================================
+.ipynb_checkpoints/
+*.ipynb
+
+# ============================================
+# Windows & OS Files
+# ============================================
+desktop.ini
+$RECYCLE.BIN/
+bash.exe.stackdump
+
+# ============================================
+# Backup Files
+# ============================================
+*.bak
+*.tmp
+*.temp
