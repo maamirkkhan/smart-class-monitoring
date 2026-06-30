@@ -108,6 +108,7 @@ v- pip install -r requirements.txt
 ### Download the buffalo_s Model
 
 i-  pip install insightface onnxruntime
+
 ii- python -c "import insightface; from insightface.app import FaceAnalysis; app = FaceAnalysis(name='buffalo_s'); app.prepare(ctx_id=0)"
 
 
